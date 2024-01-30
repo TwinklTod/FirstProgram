@@ -4,13 +4,13 @@ public class AvgCalc {
     public static void AvgCalc () {
 
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Введите число x: ");
+        System.out.print("Введите число x: ");
         double x = scanner.nextDouble();
 
-        System.out.println("Введите число y: ");
+        System.out.print("Введите число y: ");
         double y = scanner.nextDouble();
 
-        System.out.println("Введите число z: ");
+        System.out.print("Введите число z: ");
         double z = scanner.nextDouble();
 
         double avg = (x + y + z) / 3;
@@ -19,7 +19,7 @@ public class AvgCalc {
         double halfAvg = Math.floor(avg / 2);
 
         if (halfAvg > 3) {
-            System.out.println("Программа выполнена корректно");
+            System.out.print("Программа выполнена корректно");
         }
 
     }
