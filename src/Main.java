@@ -18,5 +18,7 @@ public class Main {
         SumOddNumbers.SumOdd();//Задача №8_Циклы
         System.out.println("Задача №9_Циклы");
         AverageMultiply.AvgMult();//Задача №9_Циклы
+        System.out.println("Задача №10_Циклы");
+        MatrixOperation.MatrixOp();//Задача №10_Циклы
     }
 }
