@@ -8,5 +8,7 @@ public class Main {
         Arrays.Arrays(); // Задача №3_Массивы
         System.out.println("Задача №4_Операторы");
         AvgCalc.AvgCalc(); // Задача №4_Операторы
+        System.out.println("Задача №5_Операторы");
+        Calculator.Calc(); // Задача №5_Операторы
     }
 }
