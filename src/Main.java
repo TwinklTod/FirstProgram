@@ -16,5 +16,7 @@ public class Main {
         ArrayConstants.ArrCons(); //Задача №7_Циклы
         System.out.println("Задача №8_Циклы");
         SumOddNumbers.SumOdd();//Задача №8_Циклы
+        System.out.println("Задача №9_Циклы");
+        AverageMultiply.AvgMult();//Задача №9_Циклы
     }
 }
