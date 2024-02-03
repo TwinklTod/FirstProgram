@@ -24,5 +24,7 @@ public class Main {
         CompareNumbers.CompNum();//Задача №11_Работа с данными
         System.out.println("Задача №12_Работа с данными");
         StringOperations.StrOp();//Задача №12_Работа с данными
+        System.out.println("Задача №13_ Работа с данными");
+        LatinWords.LatWord();//Задача №13_ Работа с данными
     }
 }
