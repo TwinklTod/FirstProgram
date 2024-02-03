@@ -1,6 +1,7 @@
 import java.util.Random;
 import java.util.Arrays;
 
+
 public class RandomArray {
     public static void RndArr() {
         int[] array = new int[15];
