@@ -1,3 +1,5 @@
+package Tasks.Section_8_Working_with_data;
+
 public class StringOperations {
     public static void StrOp() {
         String inputString = "I like Java!!!";

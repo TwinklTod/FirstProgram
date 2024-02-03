@@ -1,3 +1,5 @@
+package Tasks.Section_8_Working_with_data;
+
 import java.util.Scanner;
 
 public class CompareNumbers {

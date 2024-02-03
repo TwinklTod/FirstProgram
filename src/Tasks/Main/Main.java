@@ -1,3 +1,20 @@
+package Tasks.Main;
+
+import Tasks.Section_2_The_program.HelloWorld;
+import Tasks.Section_3_Data_Types_Literals.DataType;
+import Tasks.Section_4_Arrays.Arrays;
+import Tasks.Section_6_Decision_making_operators.AvgCalc;
+import Tasks.Section_6_Decision_making_operators.Calculator;
+import Tasks.Section_6_Decision_making_operators.Converter;
+import Tasks.Section_7_Cycles.ArrayConstants;
+import Tasks.Section_7_Cycles.AverageMultiply;
+import Tasks.Section_7_Cycles.MatrixOperation;
+import Tasks.Section_7_Cycles.SumOddNumbers;
+import Tasks.Section_8_Working_with_data.CompareNumbers;
+import Tasks.Section_8_Working_with_data.LatinWords;
+import Tasks.Section_8_Working_with_data.RandomArray;
+import Tasks.Section_8_Working_with_data.StringOperations;
+
 public class Main {
     public static void main(String[] args) {
         System.out.println("Задача №1_Первая программа");

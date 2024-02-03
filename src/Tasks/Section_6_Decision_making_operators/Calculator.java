@@ -1,3 +1,5 @@
+package Tasks.Section_6_Decision_making_operators;
+
 import java.util.Scanner;
 
 public class Calculator {

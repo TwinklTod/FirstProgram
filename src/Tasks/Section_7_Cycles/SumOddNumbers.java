@@ -1,3 +1,5 @@
+package Tasks.Section_7_Cycles;
+
 import java.util.Scanner;
 
 public class SumOddNumbers {

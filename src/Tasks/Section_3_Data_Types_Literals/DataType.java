@@ -1,3 +1,5 @@
+package Tasks.Section_3_Data_Types_Literals;
+
 public class DataType {
     public static void DataType(){
         double valDouble = 1234.5678;
