@@ -20,5 +20,7 @@ public class Main {
         AverageMultiply.AvgMult();//Задача №9_Циклы
         System.out.println("Задача №10_Циклы");
         MatrixOperation.MatrixOp();//Задача №10_Циклы
+        System.out.println("Задача №11_Работа с данными");
+        CompareNumbers.CompNum();//Задача №11_Работа с данными
     }
 }
