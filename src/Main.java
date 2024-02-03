@@ -22,5 +22,7 @@ public class Main {
         MatrixOperation.MatrixOp();//Задача №10_Циклы
         System.out.println("Задача №11_Работа с данными");
         CompareNumbers.CompNum();//Задача №11_Работа с данными
+        System.out.println("Задача №12_Работа с данными");
+        StringOperations.StrOp();//Задача №12_Работа с данными
     }
 }
